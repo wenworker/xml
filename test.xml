@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterEncoding>
+     <China>
+         <encoding>GB2312</encoding>
+         <encoding>GBK</encoding>
+     </China>
+     <Japan>
+         <encoding>JIS</encoding>
+     </Japan>
+</CharacterEncoding>
